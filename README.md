@@ -1,2 +1,2 @@
-# vivaldi-theme-template
-Template repo for vivaldi web browser themes
+# vivaldi-themes
+Library of community developed themes, color palettes, and tools for Vivaldi themes
