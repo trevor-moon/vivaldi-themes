@@ -2,7 +2,13 @@
 
 ![License](https://img.shields.io/github/license/trevor-moon/vivaldi-themes?color=EF3939)
 
-My library of custom Vivaldi themes.
+[material-theme]: https://www.github.com/trevor-moon/vivaldi-material-theme
+[windows-theme]: https://www.github.com/trevor-moon/vivaldi-windows-theme
+[vivaldi-themes]: https://www.github.com/trevor-moon/vivaldi-themes
+
+My custom Vivaldi themes.
+
+Checkout some of my previous projects with Vivaldi [Material Theme][material-theme] and [Windows Theme][windows-theme]. I will have those themes [here][vivaldi-themes] too.
 
 ## About
 
